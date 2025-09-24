@@ -1,0 +1,46 @@
+
+.h{
+	background-color: #DEB887;
+	font-family: cursive;
+}
+.un{ 
+	display: inline-block;
+	float: right;
+}
+.f{
+	background-color: #DEB887;
+}
+.l{
+	text-decoration: none;
+	color: #8B4513;
+	font-family: cursive;
+}
+.l2{
+	text-decoration: none;
+	font-family: cursive;
+	color: #8B0000;
+}
+.inf{
+	background-color: #FFDAB9;
+	border-radius: 10px;
+	margin: 1%;
+	margin-left: 9%;
+	padding: 1%;
+	font-family: cursive;
+	width: 40vw;
+}
+.m{
+	background-color: #BC8F8F;
+	border-radius: 10px;
+	margin: 1%;
+	margin-left: 9%;
+	padding: 1%;
+	font-family: cursive;
+	width: 40vw;
+}
+.a{
+	background-color: white;
+	border-radius: 7px;
+	padding-left: 2%;
+	margin-left: 1%;
+}
