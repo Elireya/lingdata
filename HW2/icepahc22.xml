@@ -998,3 +998,6 @@
 <word pos="ADJ" lemma="lögkænn" />lögkænn</word>
 <word pos="PRON" lemma="hann" />hann</word>
 <word pos="AUX" lemma="vera" />er</word>
+
+(.+?)\t(.+?)\t(.+?)$
+<word pos="\3" lemma="\2" />\1</word>
